@@ -1,0 +1,10 @@
+
+[[maeses]]
+name = "front"
+location = [0.0, 1000.0, -2000.0]
+over = [1.0, 0.0, 0.0]
+up = [0.0, 1.0, 0.0]
+width = 3200.0
+height = 1800.0
+ideal-pixwid = 3840
+ideal-pixhei = 2160

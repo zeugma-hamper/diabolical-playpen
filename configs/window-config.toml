@@ -1,0 +1,15 @@
+
+[[windows]]
+name = "Laufstall"
+position = [0, 0]
+size = [1920, 1080]
+color-size = [8, 8, 8, 8]
+ds-size = [24, 8]
+decorated = false
+
+# at the moment, view doesn't need a name
+[[trefoils]]
+name = "front"
+maes = "front"
+offset = [0, 0]
+size = [1920, 1080]
